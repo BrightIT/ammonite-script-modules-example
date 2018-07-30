@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+"$(dirname "$0")/../coursier-plus-auth/bin/amm+auth" 2.12 1.1.2 "$@"

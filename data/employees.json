@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nancy",
+        "lastName": "Davolio"
+    },
+    {
+        "id": 2,
+        "firstName": "Andrew",
+        "lastName": "Fuller"
+    },
+    {
+        "id": 3,
+        "firstName": "Janet",
+        "lastName": "Leverling"
+    },
+    {
+        "id": 4,
+        "firstName": "Margaret",
+        "lastName": "Peacock"
+    },
+    {
+        "id": 5,
+        "firstName": "Steven",
+        "lastName": "Buchanan"
+    },
+    {
+        "id": 6,
+        "firstName": "Michael",
+        "lastName": "Suyama"
+    },
+    {
+        "id": 7,
+        "firstName": "Robert",
+        "lastName": "King"
+    },
+    {
+        "id": 8,
+        "firstName": "Laura",
+        "lastName": "Callahan"
+    },
+    {
+        "id": 9,
+        "firstName": "Anne",
+        "lastName": "Dodsworth"
+    }
+]

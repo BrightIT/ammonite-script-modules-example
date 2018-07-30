@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+SCRIPTDIR=$(dirname "$0")
+
+amm --predef "$SCRIPTDIR/repl-predef.sc" "$@"
